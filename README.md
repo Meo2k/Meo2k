@@ -8,28 +8,24 @@
 
 <h1 align="center">Hi 👋, I'm Trinh Tien Dat</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
-<img align = "right" alt="Coding" width="400" src = "./mon-dev.gif">
+<img align = "right" alt="Coding" width="370" src = "./mon-dev.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DK625&base=10000&label=Profile%20views&color=0e75b6&style=flat" alt="DK625" /> </p>
 <!-- add base number -->
 <!-- animated coding gif -->
 
 
 
-- 🌱 I’m currently learning **Backend**
-
-- 👯 I’m looking to collaborate on [Telegram](https://t.me/hoangtd625)
+- 🌱 I’m currently learning **Fullstack Web**
 
 - 🤝 I am looking for a study partner to progress together in university.
 
-- 👨‍💻 All of my projects are available at [ REPOSITORIES](https://github.com/DK625?tab=repositories)
-
-- 📝 I regularly write articles on [Notion](https://www.notion.so/Personal-Home-7083e7a1ba56493e9bb147545d76f606?showMoveTo=true&saveParent=true)
+- 👨‍💻 All of my projects are available at [ REPOSITORIES](https://github.com/Meo2k?tab=repositories)
 
 - 💬 Ask me about **something** you need
 
-- 📫 How to reach me **mailto: minhha10c8@gmail.com**
+- 📫 How to reach me **mailto: lovecatdat@gmail.com**
 
-- 📄 Know about my experiences **"Study hard, play hard"**
+- 📄 Know about my experiences **"Must go through to grow up"**
 <br>
 <br>
 <br>
@@ -48,11 +44,10 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <a href="#" title="DK625">
+  <a href="#" title="Meo2k">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK625&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="DK625">
-    <!-- <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DK625&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" /> -->
+  <a href="#" title="Meo2k">
   </a>
 </div>
 
@@ -61,20 +56,20 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100021847659295" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="DK625-facebook" />
+  <a href="https://web.facebook.com/profile.php?id=100095196431285" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
   <a href="https://www.youtube.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="DK625-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
   </a>
-  <a href="https://t.me/hoangtd625" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" alt="telegram-app"/>
   </a>
   <a href="https://instagram.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="DK625-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
-  <a href="mailto:minhha10c8@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="DK625-email" />
+  <a href="mailto:lovecatdat@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Meo2k-email" />
   </a>
   <!-- https://icons8.com/icon/112159/telegram-app -->
 </div>
@@ -85,18 +80,18 @@
 <br>
 <div align="center">
 <p>
-  <a href="https://github.com/DK625" target="_blank">
+  <a href="https://github.com/Meo2k" target="_blank">
     <strong>☕ Accept work related to the web (Front-end and Back-end)</strong>
   </a>
 </p>
 <!-- <p><strong>☕ I am confident in supporting other subjects at school, this semester: IOT, image processing</strong></p> -->
-<p><strong>☕ Some of the things I like are volleyball, jogging, and reading books</strong></p>
+<p><strong>☕ Some of the things I like are volleyball, codding, jogging, listening music </strong></p>
 <p>
   <!-- <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be" target="_blank">Lập Trình SERN Stack Advanced</a></strong>
   <br> -->
-  <strong>🔗 Contact me: <a href="https://www.facebook.com/profile.php?id=100021847659295" target="_blank">Facebook</a></strong>
+  <strong>🔗 Contact me: <a href="https://web.facebook.com/profile.php?id=100095196431285" target="_blank">Facebook</a></strong>
   <br>
-  <strong>📧 Or Email: <a href="mailto:minhha10c8@gmail.com" target="_top">minhha10c8@gmail.com</a></strong>
+  <strong>📧 Or Email: <a href="lovecatdat@gmail.com" target="_top">lovecatdat@gmail.com</a></strong>
 </p>
 </div>
 <br>
@@ -107,9 +102,7 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/DK625-quotes.svg" width="846" height="150" alt="DK625-official" />
-</a>
+
 
 
 
