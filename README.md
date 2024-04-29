@@ -100,7 +100,7 @@
 </a>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑 : "Don't hesitate !!"</h2>
+<h2 align="center">📑 My Favorites Quote 📑 : "Don't hesitate !! (^.^)"</h2>
 <br>
 
 
