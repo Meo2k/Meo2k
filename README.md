@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Trinh Tien Dat</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 <img align = "right" alt="Coding" width="370" src = "./mon-dev.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DK625&base=10000&label=Profile%20views&color=0e75b6&style=flat" alt="DK625" /> </p>
+
 <!-- add base number -->
 <!-- animated coding gif -->
 
