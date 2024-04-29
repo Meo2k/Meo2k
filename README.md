@@ -92,6 +92,9 @@
   <strong>🔗 Contact me: <a href="https://web.facebook.com/profile.php?id=100095196431285" target="_blank">Facebook</a></strong>
   <br>
   <strong>📧 Or Email: <a href="lovecatdat@gmail.com" target="_top">lovecatdat@gmail.com</a></strong>
+  <br>
+  <h2 align="center">📑 My Favorites Quote 📑 : "Don't hesitate !! (^.^)"</h2>
+  <br>
 </p>
 </div>
 <br>
@@ -99,9 +102,7 @@
   <img src="./hehe.jpg" width="1000" alt="Meo2k" />
 </a>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑 : "Don't hesitate !! (^.^)"</h2>
-<br>
+
 
 
 
