@@ -96,11 +96,11 @@
 </div>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/DK625.svg" width="1200" alt="DK625-official" />
+  <img src="svg/svg" width="1200" alt="Meo2k" />
 </a>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 My Favorites Quote 📑 : "Don't hesitate !!"</h2>
 <br>
 
 
