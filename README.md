@@ -96,7 +96,7 @@
 </div>
 <br>
 <a href="#" target="_blank">
-  <img src="./hehe.jpg" width="1200" alt="Meo2k" />
+  <img src="./hehe.jpg" width="1000" alt="Meo2k" />
 </a>
 
 <br>
