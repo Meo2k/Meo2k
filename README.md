@@ -1,3 +1,5 @@
+![logo](/.profile.gif)
+
 ### Hi there 👋
 
 <!--
