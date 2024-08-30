@@ -99,7 +99,7 @@
 </div>
 <br>
 <a href="#" target="_blank">
-  <img src="./hehe.jpg" width="1000" alt="Meo2k" />
+  <img src="./logo (2).jpg" width="1000" alt="Meo2k" />
 </a>
 <br>
 <div>Meo2k</div>
