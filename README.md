@@ -94,7 +94,6 @@
   <strong>📧 Or Email: <a href="lovecatdat@gmail.com" target="_top">lovecatdat@gmail.com</a></strong>
   <br>
   <h2 align="center">📑 My Favorites Quote 📑 : "Don't hesitate !! (^.^)"</h2>
-  <br>
 </p>
 </div>
 <br>
@@ -102,8 +101,6 @@
   <img src="./logo (2).jpg" width="1000" alt="Meo2k" />
 </a>
 <br>
-<div>Meo2k</div>
-
 
 
 
