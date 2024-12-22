@@ -89,7 +89,7 @@
 <p>
   <!-- <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be" target="_blank">Lập Trình SERN Stack Advanced</a></strong>
   <br> -->
-  <strong>🔗 Contact me: <a href="https://web.facebook.com/profile.php?id=61550877561414" target="_blank">Facebook</a></strong>
+  <strong>🔗 Contact me: <a href="https://www.instagram.com/moon2kz/profilecard/?igsh=cGxmYjB0a29ocmlz" target="_blank">Instagram</a></strong>
   <br>
   <strong>📧 Or Email: <a href="lovecatdat@gmail.com" target="_top">lovecatdat@gmail.com</a></strong>
   <br>
