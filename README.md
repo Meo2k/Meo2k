@@ -41,7 +41,6 @@
 
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=040310&width=435&lines=Coding+clean+code%2Cshaping+the+future.)](https://git.io/typing-svg)
