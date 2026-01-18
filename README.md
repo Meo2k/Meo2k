@@ -44,9 +44,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <a href="#" title="Meo2k">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK625&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=040310&width=435&lines=Coding+clean+code%2Cshaping+the+future.)](https://git.io/typing-svg)
   <a href="#" title="Meo2k">
   </a>
 </div>
